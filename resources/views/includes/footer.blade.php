@@ -126,16 +126,30 @@ z-index: 20;}
                                         <input type="email" class="form-control" placeholder="Your email">
                                         <button class="edu-btn btn-medium" type="button">Email Us <i class="icon-4"></i></button>
                                     </div> --}}
-                                    <ul class="social-share icon-transparent">
+                                    {{-- <ul class="social-share icon-transparent">
                                         <li><a target="__blank" href="https://www.facebook.com/goldenharrier/" class="color-fb"><i class="icon-facebook"></i></a></li>
                                         <li><a target="__blank" href="https://www.instagram.com/goldenharrier/?hl=en" class="color-ig"><i class="icon-instagram"></i></a></li>
                                         <li><a target="__blank" href="https://twitter.com/goldenharrier?lang=en" class="color-twitter"><i class="icon-twitter"></i></a></li>
                                         <li><a target="__blank" href="https://www.youtube.com/c/GoldenHarrierSchool" class="color-yt"><i class="icon-youtube"></i></a></li>
-                                    </ul>
+                                    </ul> --}}
                                 </div>
                             </div>
                         </div>
                     </div>
+
+                    <div class="d-flex justify-content-center">
+                        <div class="edu-footer-widget">
+                            <div class="inner">
+                                <ul class="social-share">
+                                    <li><a target="__blank" href="https://www.facebook.com/goldenharrier/" class="color-fb"><i class="icon-facebook"></i></a></li>
+                                    <li><a target="__blank" href="https://www.instagram.com/goldenharrier/?hl=en" class="color-ig"><i class="icon-instagram"></i></a></li>
+                                    <li><a target="__blank" href="https://twitter.com/goldenharrier?lang=en" class="color-twitter"><i class="icon-twitter"></i></a></li>
+                                    <li><a target="__blank" href="https://www.youtube.com/c/GoldenHarrierSchool" class="color-yt"><i class="icon-youtube"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
             <div class="copyright-area">

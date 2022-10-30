@@ -82,7 +82,7 @@
             @php
             $banners = App\Models\Banner::all();
             @endphp
-         @if (count($banners)>0)
+         @if (count($banners)>10)
              
         <div id="slider1_container" style="position: relative; margin: 0 auto;
             top: 0px; left: 0px; width: 1300px; height: 500px; overflow: hidden;">
@@ -147,13 +147,47 @@
             jssor_slider1_init();
         </script>
 
+        @php
+        $banners = App\Models\Banner::all();
+        @endphp
 
-       
+        @if (count($banners)>0)
+         
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+
+                @foreach ($banners as $key =>$banner)
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="{{$key}}" class="{{$key == 1 ? 'active' : ''}}" aria-current="true" aria-label="Slide 1"></button>  
+                @endforeach
+            </div>
+            <div class="carousel-inner">
+                @foreach ($banners as $key =>$banner)
+                    <div class="carousel-item {{$key == 1 ? 'active' : ''}}">
+                        <img src="{{$banner->image}}" class="d-block w-100 img-fluid" alt="...">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>{{$banner->heading}}</h5>
+                            <p>{{$banner->description}}</p>
+                          </div>
+                    </div>
+                @endforeach
+            
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+
+        @endif  
             <!--=====================================-->
             <!--=       Features Area Start      =-->
             <!--=====================================-->
             <!-- Start Categories Area  -->
-            <div class="features-area-2">
+            <div class="features-area-2 d-none d-sm-none d-md-block">
                 <div class="container">
                     <div class="features-grid-wrap">
                         <div class="features-box features-style-2 edublink-svg-animate">

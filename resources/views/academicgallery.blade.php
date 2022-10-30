@@ -37,9 +37,9 @@
 
                 @if (count($academiceventgallery)>0)
                     @foreach ($academiceventgallery as $gallery)
-                        <a href="{{$gallery->image}}" class="edu-popup-image edu-gallery-grid masonry-item" lg-event-uid="&amp;1" style="position: absolute; left: 0px; top: 0px;">
-                            <div class="thumbnail">
-                                <img src="{{$gallery->image}}" alt="{{$gallery->title}}">
+                        <a href="#" class="edu-popup-image edu-gallery-grid masonry-item" lg-event-uid="&amp;1" style="position: absolute; left: 0px; top: 0px;">
+                            <div class="thumbnail" style="height: 300px;">
+                                <img src="{{$gallery->image}}" class="img-fluid" alt="{{$gallery->title}}">
                             </div>
                             <div class="zoom-icon">
                                 <i class="icon-69"></i>

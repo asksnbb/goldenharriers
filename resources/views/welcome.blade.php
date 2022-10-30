@@ -146,6 +146,8 @@
         <script>
             jssor_slider1_init();
         </script>
+
+
        
             <!--=====================================-->
             <!--=       Features Area Start      =-->

@@ -50,6 +50,13 @@ z-index: 20;}
 
  
 
+ <!-- Whatsapp -->
+
+
+     <div class="whatsapp-icons">
+        <a href="https://wa.me/919896064802?text=Hello%2C%20Can%20you%20help%20me%3F"><i class='bx bxl-whatsapp'></i></a>
+     </div>
+
 <!-- End Blog Area  -->
         <!--=====================================-->
         <!--=        Footer Area Start       	=-->

@@ -9,3 +9,27 @@
 .bio-describe p{
     color: #000 !important;
 }
+
+.whatsapp-icons{
+    position: fixed;
+    right: 30px;
+    bottom: 120px;
+    height: 50px;
+    width: 50px;
+    background-color: #11ce75;
+    cursor: pointer;
+    display: block;
+    border-radius: 50px;
+    z-index: 10000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.whatsapp-icons i{
+    font-size: 23px;
+    color: #fff;
+    margin-top: 3px;
+
+} 

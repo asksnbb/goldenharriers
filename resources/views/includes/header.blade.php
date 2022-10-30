@@ -29,7 +29,7 @@
     <!-- Site Stylesheet -->
     <link rel="stylesheet" href="assets/css/app.css">
     <link rel="stylesheet" href="assets/css/style.css">
-
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
 <body class="sticky-header">
@@ -56,10 +56,10 @@
                                 <li><a href="tel:+919896064802"><i class="icon-phone"></i>Call: +91 989 606 4802</a></li>
                                 <li><a href="mailto:contact@goldenharriers.com" target="_blank"><i class="icon-envelope"></i>Email: contact@goldenharriers.com</a></li>
                                 <li class="social-icon">
-                                    <a href="#"><i class="icon-facebook"></i></a>
-                                    <a href="#"><i class="icon-instagram"></i></a>
-                                    <a href="#"><i class="icon-twitter"></i></a>
-                                    <a href="#"><i class="icon-linkedin2"></i></a>
+                                    <a target="_blank" href="https://www.facebook.com/goldenharrier/"><i class="icon-facebook"></i></a>
+                                    <a target="_blank" href="https://www.instagram.com/goldenharrier/?hl=en"><i class="icon-instagram"></i></a>
+                                    <a target="_blank" href="https://twitter.com/goldenharrier?lang=en"><i class="icon-twitter"></i></a>
+                                    <a target="_blank" href="https://www.youtube.com/c/GoldenHarrierSchool"><i class="icon-youtube"></i></a>
                                 </li>
                             </ul>
                         </div>

@@ -132,7 +132,7 @@
                                                      <li><a href="fee-schedule">Fee Schedule</a></li>
                                                      {{-- <li><a href="#">School Uniform</a></li> --}}
                                                      <li><a href="/school-timings">School Timings</a></li>
-                                                     <li><a href="/apply-now">Apply Now</a></li>
+                                                     {{-- <li><a href="/apply-now">Apply Now</a></li> --}}
                                         </ul>
                                     </li>
 
@@ -150,9 +150,10 @@
                                             <li><a href="/careers">Careers</a></li>
                                             <li><a href="/reach-us">Reach Us</a></li>
                                             <li><a href="/downloads">Downloads</a></li> 
+                                            <li><a href="/mdisclosure">Mandatory Disclosure</a></li>
                                         </ul>
                                     </li>   
-                                    <li><a href="/mdisclosure">Mandatory Disclosure</a></li>
+                                    
                                   
 
                                     

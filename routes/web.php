@@ -13,6 +13,8 @@ use App\Http\Controllers\Page;
 |
 */
 
+Auth::routes(['register' => false]);
+
 Route::get('/',[Page::class,'index']);
 Route::get('/about-school',[Page::class,'aboutschool']);
 Route::get('/chairman-message',[Page::class,'chairmanmessage']);

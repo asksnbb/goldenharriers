@@ -14,12 +14,12 @@
             <div class="carousel-indicators">
 
                 @foreach ($banners as $key =>$banner)
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="{{$key}}" class="{{$key == 1 ? 'active' : ''}}" aria-current="true" aria-label="Slide 1"></button>  
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="{{$key}}" class="{{$key == 0 ? 'active' : ''}}" aria-current="true" aria-label="Slide 1"></button>  
                 @endforeach
             </div>
             <div class="carousel-inner">
                 @foreach ($banners as $key =>$banner)
-                    <div class="carousel-item {{$key == 1 ? 'active' : ''}}">
+                    <div class="carousel-item {{$key == 0 ? 'active' : ''}}">
                         <img src="{{$banner->image}}" class="d-block w-100 img-fluid" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>{{$banner->heading}}</h5>

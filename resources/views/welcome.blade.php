@@ -231,7 +231,7 @@
                     <div class="row g-5 align-items-center">
                         <div class="col-lg-6">
                             <div class="about-image-gallery">
-                                <img class="main-img-1" src="https://i.imgur.com/czsgXnf.jpg" alt="About Image"/>
+                                <img class="main-img-1" src="https://i.imgur.com/vfB2p9o.jpg" alt="Award Image Golden harrier School"/>
                                 <div class="video-box" data-sal-delay="150" data-sal="slide-down" data-sal-duration="800">
                                     <div class="inner">
                                         <div class="thumb">
@@ -385,7 +385,7 @@
     
                                             </div>
                                             <div class="content">
-                                                <p>Hello, I am Tannu from class XII C. Golden Harrier School is providing the best quality education to us. Faculties are very supportive and caring. They teaches us with fact & details and totally conceptual based learning.Thanks to teachers for guiding me.</p>
+                                                <p>Hello, I am Tannu from class XII C. Golden Harrier School is providing the best quality education to us. Faculties are very supportive and caring. They teaches us with fact and totally conceptual based learning.Thanks to teachers for guidance.</p>
                                                 <div class="rating-icon">
                                                     <i class="icon-23"></i>
                                                     <i class="icon-23"></i>

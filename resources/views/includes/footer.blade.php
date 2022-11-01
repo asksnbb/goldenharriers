@@ -200,7 +200,6 @@ z-index: 20;}
     <script src="assets/js/vendor/tipped.min.js"></script>
     <script src="assets/js/vendor/smooth-scroll.min.js"></script>
     <script src="assets/js/vendor/isInViewport.jquery.min.js"></script>
-    
 
     <!-- Site Scripts -->
     <script src="assets/js/app.js"></script>

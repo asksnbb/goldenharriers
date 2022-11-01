@@ -38,27 +38,45 @@
 .tales {
     width: 100%;
   }
-  .carousel-inner{
+  /* .carousel-inner{
     width:100%;
-    height: 450px !important;
-    max-height: 450px !important;
+    height: 470px !important;
+    max-height: 470px !important;
   }
 
   .carousel-inner img{
     width:100%;
-    height: 450px !important;
-    max-height: 450px !important;
+    height: 100% !important;
+     height: 450px !important;
+    max-height: 450px !important; 
     object-fit: cover;
+  } */
+
+
+  .carousel-item {
+    width:100%;
+    height: 500px !important;
+    max-height: 500px !important;
+    background-size: cover;
+  }
+
+  .carousel-item img{
+     width:100%;
+     height: 100% !important;
+     max-height: 100% !important; 
+    object-fit: fill;
   }
 
   .carousel-caption h5{
     color: #fff;
     font-size: 30px;
     line-height: 0px !important;
+    display: none;
   }
 
   .carousel-caption p{
     color: #fff;
+    display: none;
   }
 
   .carousel-caption{

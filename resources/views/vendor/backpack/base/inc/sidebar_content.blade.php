@@ -12,3 +12,4 @@
 <li class="nav-item"><a class="nav-link" href="{{ backpack_url('datesheet') }}"><i class="nav-icon la la-question"></i> Datesheets</a></li>
 <li class="nav-item"><a class="nav-link" href="{{ backpack_url('teacher') }}"><i class="nav-icon la la-question"></i> Teachers</a></li>
 <li class="nav-item"><a class="nav-link" href="{{ backpack_url('banner') }}"><i class="nav-icon la la-question"></i> Banners</a></li>
+<li class="nav-item"><a class="nav-link" href="{{ backpack_url('topper') }}"><i class="nav-icon la la-question"></i> Toppers</a></li>

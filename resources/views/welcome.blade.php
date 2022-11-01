@@ -6,6 +6,7 @@
 
         @php
         $banners = App\Models\Banner::all();
+        $toppers = App\Models\Topper::all();
         @endphp
 
         @if (count($banners)>0)
@@ -444,27 +445,6 @@
                                         </div>
                                     </div>
                                     
-                                    <!-- <div class="swiper-slide">
-                                        <div class="testimonial-grid">
-                                            <div class="thumbnail">
-                                                <img src="assets/images/testimonial/testimonial-04.png" alt="Testimonial">
-                                                <span class="qoute-icon"><i class="icon-26"></i></span>
-    
-                                            </div>
-                                            <div class="content">
-                                                <p>Lorem ipsum dolor amet consec tur elit adicing sed do usmod zx tempor enim minim veniam quis nostrud exer citation.</p>
-                                                <div class="rating-icon">
-                                                    <i class="icon-23"></i>
-                                                    <i class="icon-23"></i>
-                                                    <i class="icon-23"></i>
-                                                    <i class="icon-23"></i>
-                                                    <i class="icon-23"></i>
-                                                </div>
-                                                <h5 class="title">Robert Tapp</h5>
-                                                <span class="subtitle">Content Creator</span>
-                                            </div>
-                                        </div>
-                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -473,9 +453,9 @@
             </div>
             <!-- End Testimonial Area  -->
     
-    
             <!--Gallary Art Start-->
-                <div class="edu-gallery-area edu-section-gap" style="padding: 0px 0 120px;">
+                <div class="edu-gallery-area edu-section-gap" style="padding: 33px 0 45px;
+                background-color:#f0f4f5;">
                 <div class="container">
                     <h3 class="text-center">Golden Harrier Gallary</h3>
                     <div class="isotope-wrapper">
@@ -595,6 +575,67 @@
                 </div>
             </div>
             <!--Gallary Art End-->
+
+
+
+            <!--=====================================-->
+        <!--=       Testimonial Area Start      =-->
+        <!--=====================================-->
+        <!-- Start Testimonial Area  -->
+        @if (count($toppers)>2)
+            
+        <div class="testimonial-area-8 section-gap-equal" style="padding: 35px 0 !important;">
+            <div class="container edublink-animated-shape">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <div class="section-title section-center" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
+                            <span class="pre-title">Toppers</span>
+                            <h2 class="title">School Toppers  <br> 2021 - 2022</h2>
+                            <span class="shape-line"><i class="icon-19"></i></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-activation swiper">
+                    <div class="swiper-wrapper">
+                        
+                    @foreach ($toppers as $topper)
+                       
+                        <div class="swiper-slide">
+                            <div class="testimonial-slide">
+                                <div class="content">
+                                    <div class="author-info">
+                                        <div class="thumb">
+                                            <img src="{{$topper->image}}" alt="{{$topper->name}}">
+                                        </div>
+                                    </div>
+                                    <div class="info">
+                                        <h5 class="title" style="font-size: 19px;">{{$topper->name}}</h5>
+                                        <div class="d-flex flex-column">
+                                            <span class="subtitle">Class {{$topper->class}}</span>
+                                        <span>Percentage - {{$topper->percentage}}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    @endforeach     
+
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            <ul class="shape-group">
+                <li class="shape-3" data-sal-delay="200" data-sal="fade" data-sal-duration="1000">
+                    <img class="d-block-shape-light" data-depth="2" src="assets/images/others/map-shape-3.png" alt="Shape">
+                    <img class="d-none-shape-dark" data-depth="2" src="assets/images/others/dark-map-2-shape-3.png" alt="Shape">
+                </li>
+            </ul>
+        </div>
+
+        @endif
+        <!-- End Testimonial Area  -->
+        <!--=====================================-->
     
             <!--=====================================-->
             <!--=      		Team Area Start   		=-->

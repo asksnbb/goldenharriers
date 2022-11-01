@@ -5,7 +5,7 @@ namespace App\Models;
 use Backpack\CRUD\app\Models\Traits\CrudTrait;
 use Illuminate\Database\Eloquent\Model;
 
-class Download extends Model
+class Topper extends Model
 {
     use CrudTrait;
 
@@ -15,17 +15,13 @@ class Download extends Model
     |--------------------------------------------------------------------------
     */
 
-    protected $table = 'downloads';
+    protected $table = 'toppers';
     // protected $primaryKey = 'id';
     // public $timestamps = false;
     protected $guarded = ['id'];
     // protected $fillable = [];
     // protected $hidden = [];
     // protected $dates = [];
-    protected $fillable = [
-        'title',
-        'downloadFile'
-    ];
 
     /*
     |--------------------------------------------------------------------------

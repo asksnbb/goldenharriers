@@ -82,3 +82,28 @@
   .carousel-caption{
     bottom: 6.25rem !important;
   }
+
+  .testimonial-slide .author-info .thumb img {
+    border-radius: 50%;
+    height: 130px !important;
+    width: 130px !important;
+}
+
+.testimonial-slide .author-info .thumb img {
+    border-radius: 50%;
+    height: 130px !important;
+    width: 130px !important;
+    border: 3px solid #1ab69d !important;
+}
+
+.testimonial-area-8 .testimonial-slide .content {
+    text-align: center;
+    margin-bottom: 45px;
+    border-radius: 10px;
+    background: #1ab69d;
+    color: #fff;
+}
+
+.testimonial-area-8 .testimonial-slide .info h5{
+  color: #fff;
+}

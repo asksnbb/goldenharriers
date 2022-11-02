@@ -710,7 +710,7 @@
                                     </div>
                                     <div class="col-6 sal-animate" data-sal-delay="100" data-sal="slide-left" data-sal-duration="800">
                                         <div class="faq-thumbnail thumbnail-4">
-                                            <img src="https://i.imgur.com/vKwjBQW.jpg" alt="Faq Images">
+                                            <img src="https://i.imgur.com/jXcOG2W.jpg" alt="Faq Images">
                                         </div>
                                     </div>
                                 </div>

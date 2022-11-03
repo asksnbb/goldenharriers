@@ -41,7 +41,7 @@
                             <div class="isotope-wrapper">
                                 <div class="isotope-list gallery-grid-wrap" style="position: relative; height: 923.812px;">
                                     <div id="animated-thumbnials" lg-uid="lg0">
-                                        <a href="https://i.imgur.com/BhRG4PA.jpg" class="edu-popup-image edu-gallery-grid isotope-item education" lg-event-uid="&amp;1" style="position: absolute; left: 0%; top: 0px;" data-abc="true">
+                                        <a href="#" class="edu-popup-image edu-gallery-grid isotope-item education" lg-event-uid="&amp;1" style="position: absolute; left: 0%; top: 0px;" data-abc="true">
                                             <div class="thumbnail">
                                                 <img src="https://i.imgur.com/BhRG4PA.jpg" alt="Gallery Image">
                                             </div>
@@ -51,9 +51,9 @@
                                         </a>
             
             
-                                        <a href="https://i.imgur.com/vCND0eA.jpg" class="edu-popup-image edu-gallery-grid isotope-item marketing" lg-event-uid="&amp;2" style="position: absolute; left: 33.25%; top: 0px;" data-abc="true">
+                                        <a href="#" class="edu-popup-image edu-gallery-grid isotope-item marketing" lg-event-uid="&amp;2" style="position: absolute; left: 33.25%; top: 0px;" data-abc="true">
                                             <div class="thumbnail">
-                                                <img src="https://i.imgur.com/vCND0eA.jpg" alt="Gallery Image">
+                                                <img src="https://i.imgur.com/3l654Wa.jpg" alt="Gallery Image">
                                             </div>
                                             <div class="zoom-icon">
                                                 <i class="icon-69"></i>
@@ -61,7 +61,7 @@
                                         </a>
             
             
-                                        <a href="https://i.imgur.com/L9ZCYd1.jpg" class="edu-popup-image edu-gallery-grid isotope-item education health" lg-event-uid="&amp;3" style="position: absolute; left: 66.5833%; top: 0px;" data-abc="true">
+                                        <a href="#" class="edu-popup-image edu-gallery-grid isotope-item education health" lg-event-uid="&amp;3" style="position: absolute; left: 66.5833%; top: 0px;" data-abc="true">
                                             <div class="thumbnail">
                                                 <img src="https://i.imgur.com/L9ZCYd1.jpg" alt="Gallery Image">
                                             </div>

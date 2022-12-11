@@ -45,12 +45,12 @@
             </div> --}}
             <div class="col-lg-12">
                 <div class="team-details-content">
-                    <div class="main-info">
+                    {{-- <div class="main-info">
                        
                         <h3 class="title">Mr. Amit Sherawat</h3>
                         <span class="designation">Managing Director</span>
                         
-                    </div>
+                    </div> --}}
                     <div class="bio-describe">
                         <h4 class="title">Dear Students & Parents,</h4>
                         <p> <br>

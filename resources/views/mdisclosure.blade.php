@@ -89,7 +89,7 @@
                             <tr>
                                 <td>01.</td>
                                 <td>AFFILIATION LETTER</td>
-                                <td><a data-abc="true">View</a></td>
+                                <td><a href="https://www.dropbox.com/s/pylzh8hgwga1a5h/Affiliation%20Letter%201-12%20%2820-25%29.pdf?dl=1" data-abc="true">View</a></td>
                             </tr>
                              <tr>
                                 <td>02.</td>
@@ -99,22 +99,27 @@
                             <tr>
                                 <td>03.</td>
                                 <td>NO OBJECTION CERTIFICATE(NOC)</td>
-                                <td><a data-abc="true">View</a></td>
+                                <td><a href="https://www.dropbox.com/s/jw0ehzwz13yde0k/NOC.jpg?dl=1" data-abc="true">View</a></td>
+                            </tr>
+                            <tr>
+                                <td>03-A.</td>
+                                <td>NO OBJECTION CERTIFICATE(NOC) HSBE</td>
+                                <td><a href="https://www.dropbox.com/s/f5ld59kra3qo0dp/NOC%20HSBE.pdf?dl=1" data-abc="true">View</a></td>
                             </tr>
                             <tr>
                                 <td>04.</td>
                                 <td>RECOGNITION CERTIFIATE UNDER RTE ACT 2009</td>
-                                <td><a data-abc="true">View</a></td>
+                                <td><a href="https://www.dropbox.com/s/msahp27ldn7agdr/80%20G%20%2821-22%29.pdf?dl=1" data-abc="true">View</a></td>
                             </tr>
                             <tr>
                                 <td>05.</td>
                                 <td>BUILDING SAFETY CERTIFICATE</td>
-                                <td><a data-abc="true">View</a></td>
+                                <td><a href="https://www.dropbox.com/s/8hqy639vg2i1zym/BULDING%20SAFETY.pdf?dl=1" data-abc="true">View</a></td>
                             </tr>
                              <tr>
                                 <td>06.</td>
                                 <td>FIRE SAFETY CERTIFICATE</td>
-                                <td><a data-abc="true">View</a></td>
+                                <td><a href="https://www.dropbox.com/s/jvgih68ryxtluej/Fire%20Saftey%20Certificate.jpg?dl=1" data-abc="true">View</a></td>
                             </tr>
                             <tr>
                                 <td>07.</td>
@@ -124,7 +129,7 @@
                        <tr>
                                 <td>08.</td>
                                 <td>WATER,HEALTH AND SANITATION CERTIFICATES</td>
-                               <td><a data-abc="true">View</a></td>
+                               <td><a href="https://www.dropbox.com/s/8k7l6eurs4hrwrp/Hygenic%20Certificate.jpg?dl=1" data-abc="true">View</a></td>
                             </tr>
                         </tbody></table>
                           <p class="font-weight-bold">C. RESULT AND ACADEMICS</p><br>
@@ -137,7 +142,7 @@
                             <tr>
                                 <td>01.</td>
                                 <td>FEE STRUCTURE OF THE SCHOOL</td>
-                                <td><a href="fee.aspx" data-abc="true">View</a></td>
+                                <td><a href="https://www.dropbox.com/scl/fi/3cxphgktbi818u3x7y7qi/GHS-Fee-Structure-2022-2023.doc?dl=1" data-abc="true">View</a></td>
                             </tr>
                              <tr>
                                 <td>02.</td>

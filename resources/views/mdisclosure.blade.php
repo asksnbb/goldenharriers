@@ -142,7 +142,7 @@
                             <tr>
                                 <td>01.</td>
                                 <td>FEE STRUCTURE OF THE SCHOOL</td>
-                                <td><a href="//fee-schedule" data-abc="true">View</a></td>
+                                <td><a href="/fee-schedule" data-abc="true">View</a></td>
                             </tr>
                              <tr>
                                 <td>02.</td>

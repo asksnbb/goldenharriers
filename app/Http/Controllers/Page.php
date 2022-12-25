@@ -302,5 +302,95 @@ class Page extends Controller
     }
 
 
+
+    /* CBSE Work*/
+
+     public function affiliationletter(){
+        $data = array(
+            'title'=>'School Affiliation Letter',
+            'description'=>'School Affiliation Letter',
+            'image'=>'https://i.imgur.com/3nu3r8E.jpg'
+            );
+        return view('affiliationletter',$data); 
+    }
+
+
+    public function trustcertificate(){
+        $data = array(
+            'title'=>'School Trust Certificate',
+            'description'=>'School Trust Certificate',
+            'image'=>'https://i.imgur.com/tkNWsjE.jpg'
+
+            );
+        return view('trustcertificate',$data); 
+    }
+
+    public function noc(){
+        $data = array(
+            'title'=>'School NOC',
+            'description'=>'School NOC',
+            'image'=>'https://i.imgur.com/us7biIb.jpg'
+            );
+        return view('noc',$data); 
+    }
+
+    public function recognitioncertificate(){
+        $data = array(
+            'title'=>'School Recognition Certificate',
+            'description'=>'School Recognition Certificate',
+            'image'=>'https://i.imgur.com/2jCZe7s.jpg'
+            );
+        return view('recognitioncertificate',$data); 
+    }
+
+    public function buildingsafetycertificate(){
+        $data = array(
+            'title'=>'School Building Safety Certificate',
+            'description'=>'School Building Safety Certificate',
+            'image'=>'https://i.imgur.com/T9yAlCi.jpg'
+            );
+        return view('buildingsafetycertificate',$data); 
+    }
+
+
+    public function firesafetycertificate(){
+        $data = array(
+            'title'=>'School Fire Safety Certificate',
+            'description'=>'School Fire Safety Certificate',
+            'image'=>'https://i.imgur.com/QmsrAKi.jpg'
+            );
+        return view('firesafetycertificate',$data); 
+    }
+
+    public function deonoc(){
+        $data = array(
+            'title'=>'School DEO NOC',
+            'description'=>'School DEO NOC',
+            'image'=>'https://i.imgur.com/3vk4AZD.jpg'
+            );
+        return view('deonoc',$data); 
+    }
+
+    public function hygienecertificate(){
+        $data = array(
+            'title'=>'School hygiene certificate',
+            'description'=>'School hygiene certificate',
+            'image'=>'https://i.imgur.com/iBv1BMW.jpg'
+            );
+        return view('hygienecertificate',$data); 
+    }
+
+    public function annualacademiccalender(){
+        $data = array(
+            'title'=>'School Annual Academic Calender',
+            'description'=>'School Annual Academic Calender',
+            'image'=>'https://i.imgur.com/LykOPkw.jpg'
+            );
+        return view('annualacademiccalender',$data); 
+    }
+
+    
+
+
     
 }

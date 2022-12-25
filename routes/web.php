@@ -60,4 +60,16 @@ Route::get('/playground',[Page::class,'playground']);
 Route::get('/clubs',[Page::class,'clubs']);
 Route::get('/transports',[Page::class,'transports']);
 
+
+
+Route::get('/affiliationletter',[Page::class,'affiliationletter']);
+Route::get('/trustcertificate',[Page::class,'trustcertificate']);
+Route::get('/noc',[Page::class,'noc']);
+Route::get('/recognitioncertificate',[Page::class,'recognitioncertificate']);
+Route::get('/buildingsafetycertificate',[Page::class,'buildingsafetycertificate']);
+Route::get('/firesafetycertificate',[Page::class,'firesafetycertificate']);
+Route::get('/deonoc',[Page::class,'deonoc']);
+Route::get('/hygienecertificate',[Page::class,'hygienecertificate']);
+Route::get('/annualacademiccalender',[Page::class,'annualacademiccalender']);
+
  

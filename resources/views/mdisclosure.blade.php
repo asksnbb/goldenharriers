@@ -314,7 +314,7 @@
                             <tr>
                                 <td>07.</td>
                                 <td>CBSE SCHOOL INSPECTION VIDEO</td>
-                                <td><a href="https://web.archive.org/web/20210917184717/https://youtu.be/P4XRGWkOc14" data-abc="true">View</a></td>
+                                <td><a target="_blank" href="https://youtu.be/P4XRGWkOc14" data-abc="true">View</a></td>
                             </tr>
                         </tbody></table>
                     </div>

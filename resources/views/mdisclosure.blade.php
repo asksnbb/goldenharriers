@@ -104,7 +104,7 @@
                             <tr>
                                 <td>03-A.</td>
                                 <td>NO OBJECTION CERTIFICATE(NOC) HSBE</td>
-                                <td><a href="https://www.dropbox.com/s/f5ld59kra3qo0dp/NOC%20HSBE.pdf?dl=1" data-abc="true">View</a></td>
+                                <td><a href="/deonoc" data-abc="true">View</a></td>
                             </tr>
                             <tr>
                                 <td>04.</td>

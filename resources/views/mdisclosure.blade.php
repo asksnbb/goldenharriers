@@ -161,7 +161,7 @@
                             </tr>
                             <tr>
                                 <td>05.</td>
-                                <td>LAST THREE-YEAR RESULT OF THE BOARD EXAMINATION</td>
+                                <td>LAST FIVE-YEAR RESULT OF THE BOARD EXAMINATION</td>
                                 <td><a data-abc="true">See Below</a></td>
                             </tr>
                              
@@ -192,12 +192,28 @@
                                 <td>100</td>
                                 <td></td>
                             </tr>
-                      <tr>
+                            <tr>
                                 <td>03.</td>
                                 <td>2020-21</td>
                                 <td>91</td>
+                                <td>91</td>
+                                <td>100</td>
                                 <td></td>
+                            </tr>
+                            <tr>
+                                <td>04.</td>
+                                <td>2021-22</td>
+                                <td>96</td>
+                                <td>96</td>
+                                <td>100</td>
                                 <td></td>
+                            </tr>
+                            <tr>
+                                <td>05.</td>
+                                <td>2022-23</td>
+                                <td>134</td>
+                                <td>132</td>
+                                <td>98.51</td>
                                 <td></td>
                             </tr>
                       </tbody></table>
@@ -219,12 +235,28 @@
                                 <td>100</td>
                                 <td></td>
                             </tr>
-                        <tr>
+                            <tr>
                                 <td>02.</td>
                                 <td>2020-2021</td>
                                 <td>69</td>
+                                <td>69</td>
+                                <td>100</td>
                                 <td></td>
+                            </tr>
+                            <tr>
+                                <td>03.</td>
+                                <td>2021-2022</td>
+                                <td>60</td>
+                                <td>60</td>
+                                <td>100</td>
                                 <td></td>
+                            </tr>
+                            <tr>
+                                <td>04.</td>
+                                <td>2022-2023</td>
+                                <td>96</td>
+                                <td>96</td>
+                                <td>100</td>
                                 <td></td>
                             </tr>  
                       </tbody></table>
@@ -238,24 +270,24 @@
                             <tr>
                                 <td>01.</td>
                                 <td>PRINCIPAL</td>
-                                <td><a href="principal-message.aspx" data-abc="true">Click</a></td>
+                                <td><a href="principal-message" data-abc="true">Dr. Ankur Rohilla</a></td>
                             </tr>
                              <tr>
                                 <td rowspan="4">02.</td>
                                 <td>TOTAL NO. OF TEACHERS</td>
-                                <td>55</td>
+                                <td>80</td>
                             </tr>
                        <tr>
                                 <td>PGT</td>
-                                <td>14</td>
+                                <td>18</td>
                             </tr>
                       <tr>
                                 <td>TGT</td>
-                                <td>17</td>
+                                <td>26</td>
                             </tr>
                       <tr>
                                 <td>PRT</td>
-                                <td>15</td>
+                                <td>26</td>
                             </tr>
                             <tr>
                                 <td>03.</td>
@@ -270,7 +302,7 @@
                             <tr>
                                 <td>05.</td>
                                 <td>DETAILS OF COUNSELLOR AND WELLNESS TEACHER</td>
-                                <td>Dr. Jyoti Chikkara(MBBS)</td>
+                                <td>Dr. Ritu(MBBS)</td>
                             </tr>
                              
                         </tbody></table>
@@ -315,6 +347,54 @@
                                 <td>07.</td>
                                 <td>CBSE SCHOOL INSPECTION VIDEO</td>
                                 <td><a target="_blank" href="https://youtu.be/P4XRGWkOc14" data-abc="true">View</a></td>
+                            </tr>
+                        </tbody></table>
+
+                        <p class="font-weight-bold">F. Affiliation Status  </p><br>
+                  <table class="table table-primary table-bordered" align="center">
+                            <tbody>
+                            <tr>
+                                <th>S.No</th>
+                                <th>INFORMATION</th>
+                                <th>DETAILS</th>
+                            </tr>
+                            
+                            <tr>
+                                <td>01.</td>
+                                <td>The School Recognised by</td>
+                                <td>Central Board of Secondary Education, Shiksha Kendra, 2 Community Centre, Preet Vihar, Delhi-110092</td>
+                            </tr>
+                             <tr>
+                                <td>02.</td>
+                                <td>Status of Affiliation</td>
+                                <td>Provisional</td>
+                            </tr>
+                            <tr>
+                                <td>03.</td>
+                                <td>Affiliation No</td>
+                                <td>531446</td>
+                            </tr>
+                            <tr>
+                                <td>04</td>
+                                <td> School Code</td>
+                                <td>41418</td>
+                            </tr>
+                            
+                            <tr>
+                                <td>05.</td>
+                                <td>Affiliation with the Board since</td>
+                                <td>27 July 2017</td>
+                            </tr>
+                             <tr>
+                                <td>06.</td>
+                                <td>Extension of Affiliation upto</td>
+                                <td>March 2025</td>
+                            </tr>
+                             
+                       <tr>
+                                <td>07.</td>
+                                <td>Name of Society</td>
+                               <td>Lal chand Educational Trust</td>
                             </tr>
                         </tbody></table>
                     </div>

@@ -124,7 +124,7 @@
                      <ul>
                          <li>Propectus Charges Extra for New Admission for Rs. 500/-</li>  
                          <li>Sibling Discount: 50% OFF on Admission Charges.</li>
-                         <li>Sibling Discount: 20% OFF on Admission Charges.</li>
+                         <li>Sibling Discount: 20% OFF on Annual Charges.</li>
                          <li>CRPF Khewra: 50% OFF on Admission & Annual Charges.</li>
                          <li>Transport Charges will be applicable according to the distance.</li>
                         </ul>

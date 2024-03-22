@@ -152,12 +152,12 @@
                             <tr>
                                 <td>03.</td>
                                 <td>LIST OF SCHOOL MANAGEMENT COMMITTEE (SMC)</td>
-                                <td><a href="#" data-abc="true">View</a></td>
+                                <td><a href="/smc" data-abc="true">View</a></td>
                             </tr>
                             <tr>
                                 <td>04.</td>
                                 <td>LIST OF PARENTS TEACHERS ASSOCIATION(PTA) MEMBERS</td>
-                                <td><a href="#" data-abc="true">View</a></td>
+                                <td><a href="ptamember" data-abc="true">View</a></td>
                             </tr>
                             <tr>
                                 <td>05.</td>

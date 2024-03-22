@@ -66,6 +66,8 @@ Route::get('/affiliationletter',[Page::class,'affiliationletter']);
 Route::get('/trustcertificate',[Page::class,'trustcertificate']);
 Route::get('/noc',[Page::class,'noc']);
 Route::get('/recognitioncertificate',[Page::class,'recognitioncertificate']);
+Route::get('/smc',[Page::class,'smc']);
+Route::get('/ptamember',[Page::class,'ptamember']);
 Route::get('/buildingsafetycertificate',[Page::class,'buildingsafetycertificate']);
 Route::get('/firesafetycertificate',[Page::class,'firesafetycertificate']);
 Route::get('/deonoc',[Page::class,'deonoc']);

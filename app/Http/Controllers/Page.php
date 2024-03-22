@@ -338,16 +338,34 @@ class Page extends Controller
         $data = array(
             'title'=>'School Recognition Certificate',
             'description'=>'School Recognition Certificate',
-            'image'=>'https://i.imgur.com/2jCZe7s.jpg'
+            'image'=>'affiliation-1st-to-12th.pdf'
             );
         return view('recognitioncertificate',$data); 
+    }
+
+    public function smc(){
+        $data = array(
+            'title'=>'School Management COMMITTEE',
+            'description'=>'School Management COMMITTEE',
+            'image'=>'school-management-committee.pdf'
+            );
+        return view('smc',$data); 
+    }
+
+    public function ptamember(){
+        $data = array(
+            'title'=>'PARENTS TEACHERS ASSOCIATION(PTA) MEMBERS',
+            'description'=>'PARENTS TEACHERS ASSOCIATION(PTA) MEMBERS',
+            'image'=>'ptamember.pdf'
+            );
+        return view('ptamember',$data); 
     }
 
     public function buildingsafetycertificate(){
         $data = array(
             'title'=>'School Building Safety Certificate',
             'description'=>'School Building Safety Certificate',
-            'image'=>'https://i.imgur.com/T9yAlCi.jpg'
+            'image'=>'building-safety.pdf'
             );
         return view('buildingsafetycertificate',$data); 
     }
@@ -357,7 +375,7 @@ class Page extends Controller
         $data = array(
             'title'=>'School Fire Safety Certificate',
             'description'=>'School Fire Safety Certificate',
-            'image'=>'https://i.imgur.com/QmsrAKi.jpg'
+            'image'=>'fire-safety.pdf'
             );
         return view('firesafetycertificate',$data); 
     }
@@ -366,7 +384,7 @@ class Page extends Controller
         $data = array(
             'title'=>'School DEO NOC',
             'description'=>'School DEO NOC',
-            'image'=>'https://i.imgur.com/3vk4AZD.jpg'
+            'image'=>'/point-7-deo-certificate.pdf'
             );
         return view('deonoc',$data); 
     }
@@ -375,7 +393,7 @@ class Page extends Controller
         $data = array(
             'title'=>'School hygiene certificate',
             'description'=>'School hygiene certificate',
-            'image'=>'https://i.imgur.com/iBv1BMW.jpg'
+            'image'=>'/hygiene-certificate.pdf'
             );
         return view('hygienecertificate',$data); 
     }
@@ -384,7 +402,7 @@ class Page extends Controller
         $data = array(
             'title'=>'School Annual Academic Calender',
             'description'=>'School Annual Academic Calender',
-            'image'=>'https://i.imgur.com/LykOPkw.jpg'
+            'image'=>'academic-calendar-2024-25--final.pdf'
             );
         return view('annualacademiccalender',$data); 
     }

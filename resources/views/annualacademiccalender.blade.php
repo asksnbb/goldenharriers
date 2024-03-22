@@ -30,7 +30,7 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-12">
-            <img src="{{$image}}" class="img-fluid"/>
+           <embed src={{$image}} width="100%" height="1200px" />
      </div>
     </div>
 </div>

@@ -88,7 +88,7 @@
                                             <li><a href="/chairman-message">Chairman's Message</a></li>
                                             <li><a href="/md-message">MD's Message</a></li>
                                             <li><a href="/principal-message">Principal Message</a></li>
-                                            <li><a href="#">SMC</a></li>
+                                            <li><a href="/smc">SMC</a></li>
                                             <li><a href="/faculty">Faculty</a></li>
                                             <li><a href="/school-rules">School Rules</a></li>
                                             <li><a href="/school-information">School Information</a></li>

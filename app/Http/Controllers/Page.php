@@ -329,9 +329,18 @@ class Page extends Controller
         $data = array(
             'title'=>'School NOC',
             'description'=>'School NOC',
-            'image'=>'https://i.imgur.com/us7biIb.jpg'
+            'image'=>'/3-certificate-noc.pdf'
             );
         return view('noc',$data); 
+    }
+
+    public function deonoc(){
+        $data = array(
+            'title'=>'School DEO NOC',
+            'description'=>'School DEO NOC',
+            'image'=>'/3a-certificate-noc.pdf'
+            );
+        return view('deonoc',$data); 
     }
 
     public function recognitioncertificate(){
@@ -380,20 +389,13 @@ class Page extends Controller
         return view('firesafetycertificate',$data); 
     }
 
-    public function deonoc(){
-        $data = array(
-            'title'=>'School DEO NOC',
-            'description'=>'School DEO NOC',
-            'image'=>'/point-7-deo-certificate.pdf'
-            );
-        return view('deonoc',$data); 
-    }
+   
 
     public function hygienecertificate(){
         $data = array(
             'title'=>'School hygiene certificate',
             'description'=>'School hygiene certificate',
-            'image'=>'/hygiene-certificate.pdf'
+            'image'=>'/point-8-water-certificate.pdf'
             );
         return view('hygienecertificate',$data); 
     }

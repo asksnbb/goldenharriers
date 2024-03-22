@@ -32,7 +32,7 @@
 
 
 <div class="container mt-5">
-    <h3 class="title text-capitalize font-weight-light text-dark text-center mb-5">School Fee Structure
+    <h3 class="title text-capitalize font-weight-light text-dark text-center mb-5">School Fee Structure(2024-2025)
             <span class="font-weight-bold"></span>
         </h3>
         
@@ -42,40 +42,71 @@
                 <div class="table-responsive margin-bottom-30">
                         <table class="table table-primary table-bordered" align="center">
                             <tbody><tr>
-                                <th>S.No</th>
-                                <th>Stage</th>
-                                <th>Amount</th>
+                                <th>Class</th>
+                                <th>Admission Charges <br> Only New Students</th>
+                                <th>Annual Charges All Student's</th>
+                                <th>Package Charges All Student's</th>
+                                <th>Monthly Tution Fees</th>
                             </tr>
                             <tr>
-                                <th>1.</th>
-                                <th>Pre-Nursery</th>
-                                <th>1550/-</th>
+                                <th>PP1</th>
+                                <th>0</th>
+                                <th>6000</th>
+                                <th>500</th>
+                                <th>2000</th>
                             </tr>
                             <tr>
-                                <th>2.</th>
-                                <th>Nur-KG</th>
-                                <th>1750/-</th>
+                                <th>NUR - KG</th>
+                                <th>0</th>
+                                <th>6000</th>
+                                <th>500</th>
+                                <th>2200</th>
                             </tr>
                             <tr>
-                                <th>3.</th>
-                                <th>I-V</th>
-                                <th>2050/-</th>
+                                <th>I - II</th>
+                                <th>0</th>
+                                <th>6000</th>
+                                <th>500</th>
+                                <th>2500</th>
                             </tr>
                             <tr>
-                                <th>4.</th>
-                                <th>VI-VIII</th>
-                                <th>2350/-</th>
+                                <th> </th>
+                                <th> </th>
+                                <th> </th>
+                                <th> </th>
+                                <th> </th>
                             </tr>
                             <tr>
-                                <th>5.</th>
-                                <th>IX-X</th>
-                                <th>2800/-</th>
+                                <th>III - V</th>
+                                <th>5000</th>
+                                <th>8000</th>
+                                <th>500</th>
+                                <th>2800</th>
                             </tr>
                             <tr>
-                                <th>6.</th>
-                                <th>XI-XII</th>
-                                <th>3500/-</th>
+                                <th>VI - VIII</th>
+                                <th>5000</th>
+                                <th>8000</th>
+                                <th>500</th>
+                                <th>3100</th>
                             </tr>
+
+                            <tr>
+                                <th>IX - X</th>
+                                <th>5000</th>
+                                <th>8000</th>
+                                <th>500</th>
+                                <th>3500</th>
+                            </tr>
+
+                            <tr>
+                                <th>X - XII</th>
+                                <th>5000</th>
+                                <th>8000</th>
+                                <th>500</th>
+                                <th>4000</th>
+                            </tr>
+ 
                             </tbody></table>
             </div>
             </div>
@@ -91,13 +122,11 @@
                  <div class="text-block">
                      <h4 class="text-center">School Fee Rules</h4> 
                      <ul>
-                         <li>School fees must be paid by 10th of every month.</li>  
-                         <li>Late fee fine of Rs. 20/- per day, will be charged up to 30th of the due month.</li>
-                         <li>If fee is not deposited up to 30th of the due month, the student will not be picked up by School bus from very next day.</li>
-                         <li>Fee for the month of May & June is to be paid in May & for the month of February & March is to paid in February.</li>
-                         <li>If any student remains absent from the School, without any reason/information for 6 days, his/ her name will be struck off.</li>
-                         <li>Increase of tuition fee 10% Yearly Applicable According to Fee Policy</li>
-                     
+                         <li>Propectus Charges Extra for New Admission for Rs. 500/-</li>  
+                         <li>Sibling Discount: 50% OFF on Admission Charges.</li>
+                         <li>Sibling Discount: 20% OFF on Admission Charges.</li>
+                         <li>CRPF Khewra: 50% OFF on Admission & Annual Charges.</li>
+                         <li>Transport Charges will be applicable according to the distance.</li>
                         </ul>
                  </div>
              </div>

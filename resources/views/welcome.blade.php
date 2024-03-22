@@ -590,7 +590,7 @@
                     <div class="col-lg-6">
                         <div class="section-title section-center" data-sal-delay="150" data-sal="slide-up" data-sal-duration="800">
                             <span class="pre-title">Toppers</span>
-                            <h2 class="title">School Toppers  <br> 2021 - 2022</h2>
+                            <h2 class="title">School Toppers  <br> 2023 - 2024</h2>
                             <span class="shape-line"><i class="icon-19"></i></span>
                         </div>
                     </div>

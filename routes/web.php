@@ -20,7 +20,7 @@ Route::get('/principal-message',[Page::class,'principalmessage']);
 Route::get('/faculty',[Page::class,'faculty']);
 Route::get('/school-rules',[Page::class,'schoolrules']);
 Route::get('/school-information',[Page::class,'schoolinfo']);
-Route::get('/student-details',[Page::class,'studentdetails']);
+// Route::get('/student-details',[Page::class,'studentdetails']);
 Route::get('/annual-report',[Page::class,'annualreport']);
 
 Route::get('/mdisclosure',[Page::class,'mdisclosure']);

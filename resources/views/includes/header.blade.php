@@ -92,7 +92,7 @@
                                             <li><a href="/faculty">Faculty</a></li>
                                             <li><a href="/school-rules">School Rules</a></li>
                                             <li><a href="/school-information">School Information</a></li>
-                                            <li><a href="/student-details">Students Detail <span class="badge">new</span></a></li>
+                                            <!-- <li><a href="/student-details">Students Detail <span class="badge">new</span></a></li> -->
                                             <li><a href="/annual-report">Annual Report</a></li>
                                         </ul>
                                     </li>

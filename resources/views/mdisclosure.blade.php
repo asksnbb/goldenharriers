@@ -124,7 +124,7 @@
                             <tr>
                                 <td>07.</td>
                                 <td>DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION</td>
-                               <td><a href="/deonoc" data-abc="true">View</a></td>
+                               <td><a href="/deonocaff" data-abc="true">View</a></td>
                             </tr>
                        <tr>
                                 <td>08.</td>

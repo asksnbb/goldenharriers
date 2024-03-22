@@ -343,6 +343,15 @@ class Page extends Controller
         return view('deonoc',$data); 
     }
 
+    public function deonocaff(){
+        $data = array(
+            'title'=>'DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION',
+            'description'=>'DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION',
+            'image'=>'/point-7-deo-certificate-new.pdf'
+            );
+        return view('deonocaff',$data); 
+    }
+
     public function recognitioncertificate(){
         $data = array(
             'title'=>'School Recognition Certificate',

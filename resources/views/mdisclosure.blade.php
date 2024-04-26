@@ -297,7 +297,7 @@
                             <tr>
                                 <td>04.</td>
                                 <td>DETAILS OF SPECIAL EDUCATOR</td>
-                                <td>Mr. Gaurav Dagar (M.A,B.Ed(Psychology))</td>
+                                <td>Mr. Vishvender Dahiya (M.A,B.Ed(Psychology))</td>
                             </tr>
                             <tr>
                                 <td>05.</td>
